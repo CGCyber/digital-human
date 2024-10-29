@@ -1,6 +1,6 @@
 absl-py
 evaluate
-langchain==0.2.5
+langchain==0.3.0
 langchain-community==0.2.5
 langchain-core==0.2.7
 langchain-nvidia-ai-endpoints==0.1.1
